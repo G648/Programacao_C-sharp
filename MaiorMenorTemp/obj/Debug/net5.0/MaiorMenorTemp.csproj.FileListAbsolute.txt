@@ -1,0 +1,16 @@
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\MaiorMenorTemp.exe
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\MaiorMenorTemp.deps.json
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\MaiorMenorTemp.runtimeconfig.json
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\MaiorMenorTemp.runtimeconfig.dev.json
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\MaiorMenorTemp.dll
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\ref\MaiorMenorTemp.dll
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\bin\Debug\net5.0\MaiorMenorTemp.pdb
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.AssemblyInfo.cs
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.dll
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\ref\MaiorMenorTemp.dll
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.pdb
+C:\Users\dev\Documents\GuilhermeAmorim\MaiorMenorTemp\obj\Debug\net5.0\MaiorMenorTemp.genruntimeconfig.cache

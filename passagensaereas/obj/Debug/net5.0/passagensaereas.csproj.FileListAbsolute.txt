@@ -1,0 +1,16 @@
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.AssemblyInfo.cs
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\passagensaereas.exe
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\passagensaereas.deps.json
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\passagensaereas.runtimeconfig.json
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\passagensaereas.runtimeconfig.dev.json
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\passagensaereas.dll
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\ref\passagensaereas.dll
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\bin\Debug\net5.0\passagensaereas.pdb
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.dll
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\ref\passagensaereas.dll
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.pdb
+C:\Users\dev\Documents\Kevin Witt\passagensaereas\obj\Debug\net5.0\passagensaereas.genruntimeconfig.cache

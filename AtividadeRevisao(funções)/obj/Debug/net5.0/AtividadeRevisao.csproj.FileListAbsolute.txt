@@ -1,0 +1,16 @@
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\AtividadeRevisao.exe
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\AtividadeRevisao.deps.json
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\AtividadeRevisao.runtimeconfig.json
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\AtividadeRevisao.runtimeconfig.dev.json
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\AtividadeRevisao.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\ref\AtividadeRevisao.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\bin\Debug\net5.0\AtividadeRevisao.pdb
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.csproj.AssemblyReference.cache
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.AssemblyInfoInputs.cache
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.AssemblyInfo.cs
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.csproj.CoreCompileInputs.cache
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\ref\AtividadeRevisao.dll
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.pdb
+C:\Users\cezar\Documents\programação C-sharp\AtividadeRevisao\obj\Debug\net5.0\AtividadeRevisao.genruntimeconfig.cache

@@ -6,9 +6,11 @@ namespace Aula01
         public int idade;
         public string armadura;
         public string iA;
+        public int soco;
+        public int chute;
         private int vida = 100;
 
-        public void Defender(int ataque){
+        public void ReceberAtaque(int ataque){
             this.vida = this.vida - ataque;
         }
         public int ExibirVida(){

@@ -1,0 +1,16 @@
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\Pasta aula 15-09.exe
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\Pasta aula 15-09.deps.json
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\Pasta aula 15-09.runtimeconfig.json
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\Pasta aula 15-09.runtimeconfig.dev.json
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\Pasta aula 15-09.dll
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\ref\Pasta aula 15-09.dll
+C:\Users\fic\Documents\Pasta aula 15-09\bin\Debug\net5.0\Pasta aula 15-09.pdb
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.csproj.AssemblyReference.cache
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.AssemblyInfo.cs
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.dll
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\ref\Pasta aula 15-09.dll
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.pdb
+C:\Users\fic\Documents\Pasta aula 15-09\obj\Debug\net5.0\Pasta aula 15-09.genruntimeconfig.cache

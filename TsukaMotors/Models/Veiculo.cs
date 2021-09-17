@@ -26,12 +26,14 @@ namespace TsukaMotors.Models
 
         public string Modelo { get; set; }
         public int Ano { get; set; }
+        public string Chassi {get; set;}
 
-        public Veiculo(string _tipo, string _marca, string _modelo, int _ano){
+        public Veiculo(string _tipo, string _marca, string _modelo, int _ano, string _chassi){
             Tipo = _tipo;
             Marca = _marca;
             Modelo = _modelo;
             Ano = _ano;
+            Chassi = _chassi;
         }
 
 

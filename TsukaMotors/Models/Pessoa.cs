@@ -8,9 +8,9 @@ namespace TsukaMotors.Models
 
         public string nome { get; set; }
         public string email { get; set; }
-        public int senha { get; set; }
+        public string senha { get; set; }
 
-        public Pessoa(string _nome, string _email, int _senha)
+        public Pessoa(string _nome, string _email, string _senha)
         {
             nome = _nome;
             email = _email;

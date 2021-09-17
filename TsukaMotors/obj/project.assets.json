@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Downloads\\TsukaMotors\\TsukaMotors\\TsukaMotors.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Downloads\\Programacao_C-sharp-main\\Programacao_C-sharp-main\\TsukaMotors\\TsukaMotors.csproj",
       "projectName": "TsukaMotors",
-      "projectPath": "C:\\Users\\dev\\Downloads\\TsukaMotors\\TsukaMotors\\TsukaMotors.csproj",
+      "projectPath": "C:\\Users\\dev\\Downloads\\Programacao_C-sharp-main\\Programacao_C-sharp-main\\TsukaMotors\\TsukaMotors.csproj",
       "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Downloads\\TsukaMotors\\TsukaMotors\\obj\\",
+      "outputPath": "C:\\Users\\dev\\Downloads\\Programacao_C-sharp-main\\Programacao_C-sharp-main\\TsukaMotors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

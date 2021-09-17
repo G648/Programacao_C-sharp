@@ -20,7 +20,10 @@ namespace TsukaMotors.Controllers
             Console.WriteLine("Digite o ano do veículo");
             int ano = int.Parse(Console.ReadLine());
 
-            Veiculo veiculo = new Veiculo(tipo, marca, modelo, ano);
+            Console.WriteLine("Digite o chassi do veículo");
+            string chassi = Console.ReadLine();
+
+            Veiculo veiculo = new Veiculo(tipo, marca, modelo, ano, chassi);
             
             return veiculo;
 
@@ -34,6 +37,19 @@ namespace TsukaMotors.Controllers
                 Console.WriteLine($"Marca: {item.Marca} Modelo: {item.Modelo} Ano: {item.Ano} Tipo: {item.Tipo}");
             }
         }//fim listar veículos
+        public Veiculo BuscarVeiculo(string chassiPesquisado, List<Veiculo> lista){
+                                                      //essa função me retorna o objeto
+               Veiculo veiculoRetornado = lista.Find(veiculo => veiculo.Chassi == chassiPesquisado); 
+               return veiculoRetornado;
+        }
+
+        //metodo para remover um elemento da lista
+        public void RemoverVeiculo(string _chassi, List<Veiculo> lista ){
+                Veiculo veiculoRetornado =lista.Find(veiculo => veiculo.Chassi == _chassi);
+                lista.Remove(veiculoRetornado);
+
+        }
+        
 
 
     }
